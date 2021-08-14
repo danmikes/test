@@ -1,0 +1,7 @@
+name.family@domain.country more text: in it
+From name.family@domain.country more text: in it
+name.family@domain.country more text: in it
+spam-confidence: 0.85472
+spam-confidence: 0.55472
+spam-confidence: 0.35472
+spam-confidence: 0.45472
